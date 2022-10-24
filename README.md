@@ -1,4 +1,4 @@
-# python-cat9555/TCA9555 16bits I2C GPIO expander library.
+# Python CAT9555/TCA9555 16bits I2C GPIO expander library.
 
 ***
 
